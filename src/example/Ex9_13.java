@@ -12,6 +12,7 @@ public class Ex9_13 {
 	}
 	
 	static int stringCount(String src, String key, int pos) {
+//		여기선 pos 변수를 안썼네 흠...
 		int count =0;
 		int index = 0;
 		

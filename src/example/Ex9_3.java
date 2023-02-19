@@ -6,7 +6,7 @@ public class Ex9_3 {
 		String path = "";
 		String fileName = "";
 		
-		int tmp = fullPath.lastIndexOf("\\");
+		int tmp = fullPath.lastIndexOf("\\");		// 값이 없어서 -1을 뱉었을때 생각을 못 했군
 		path = fullPath.substring(0, tmp);
 		fileName = fullPath.substring(tmp+1);
 		

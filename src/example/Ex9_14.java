@@ -4,6 +4,8 @@ import java.util.*;
 
 public class Ex9_14 {
 	public static void main(String[] args) {
+//		이문제는 정말 하나도 모르겠다.
+
 		String[] phoneNumArr = {
 				"012-3456-7890",
 				"099-2456-7890",

@@ -36,6 +36,8 @@ public class Ex9_10 {
 //				내 느낌상은 가운데 글자 구해서 글자수를 2n+1
 //				변수가 str의 개수와, length 두개가 동시에 변하니까 규칙을 정할 수가없다.
 //				모르겠다.
+//				답에선 글자수를 3개로 고정값을 정했어
+//				 ㄴ 아니네  length-str.length() 로하면 시작값이 어딘지 알 수 있다. 두개다 변수로 작용가능
 				
 			} else if(alignment == 2) {
 				char[] strToChArr = str.toCharArray();
